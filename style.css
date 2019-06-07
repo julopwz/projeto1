@@ -1,12 +1,11 @@
 body{
     margin: 0;
-    background-color: #2ecd71;
     
 
 }
 
 nav{
-    background-image: url(105-projeto-notify/img/banner.png);
+    background-image: url(105-projeto-notify/banner.png);
     height: 78vh;
     width: 100%;
     background-size: cover;
@@ -37,3 +36,15 @@ nav div img{
     display: flex;
 }
 
+header{
+    background-color: #ffffff;
+}
+
+section{
+    background-color: #e3e3e3;
+}
+
+
+footer{
+    background-color: #e3e3e3;
+}
