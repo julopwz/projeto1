@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-color: #2ecd71;
+    
+
+}
+
+nav{
+    background-image: url(105-projeto-notify/img/banner.png);
+    height: 78vh;
+    width: 100%;
+    background-size: cover;
+    border-top: #2ecd71 8.5px solid;
+    display: flex;
+
+    
+}
+
+nav h1{
+   color: #fffffb;
+   font-family: 'Pacifico', cursive;
+
+
+
+}
+
+nav span{
+    color: #2ecd71;
+    font-family: 'Pacifico', cursive;
+}
+
+nav p{
+    color: #fffffb;
+}
+
+nav div img{
+    display: flex;
+}
+
