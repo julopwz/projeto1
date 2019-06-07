@@ -11,8 +11,9 @@ nav{
     background-size: cover;
     border-top: #2ecd71 8.5px solid;
     display: flex;
-
-    
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
 }
 
 nav h1{
@@ -33,7 +34,11 @@ nav p{
 }
 
 nav div img{
-    display: flex;
+    justify-content: center;
+}
+
+#mao{
+  
 }
 
 header{
@@ -48,3 +53,7 @@ section{
 footer{
     background-color: #e3e3e3;
 }
+
+
+
+
